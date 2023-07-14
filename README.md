@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codistrict
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Flutter & Kotlin
+- 🌱 I’m currently learning Flutter & Kotlin (React Soon)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
